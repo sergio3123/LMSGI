@@ -7,10 +7,10 @@ function fancyAlert(arg) {
   }
 }
 ```
-# This is an <h1> tag
+# Lenguaje de marcas <h1> Explicación
    * *Primer tema*
    * **Segundo tema**
- ##<h2>Sistemas de Gestión de la Información</h2>
+## Introducció als Llenguatges de Marques <h2> Listas
    * **Lista de prueba 1**
    * *Lista de prueba 2*
    
