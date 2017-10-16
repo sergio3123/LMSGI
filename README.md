@@ -7,7 +7,7 @@ function fancyAlert(arg) {
   }
 }
 ```
- #<h1>Lenguaje de marcas</h1>
+# This is an <h1> tag
    * *Primer tema*
    * **Segundo tema**
  ##<h2>Sistemas de Gestión de la Información</h2>
