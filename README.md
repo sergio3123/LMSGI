@@ -7,6 +7,9 @@ function fancyAlert(arg) {
   }
 }
 ```
- #<h1>Titulo 1</h1>
-   * Primer tema
-   * Segundo tema
+ #<h1>Lenguaje de marcas</h1>
+   * *Primer tema*
+   * **Segundo tema**
+ ##<h2>Sistemas de Gestión de la Información</h2>
+   * **Lista de prueba 1**
+   * *Lista de prueba 2*
