@@ -13,3 +13,4 @@ function fancyAlert(arg) {
  ##<h2>Sistemas de Gestión de la Información</h2>
    * **Lista de prueba 1**
    * *Lista de prueba 2*
+   
