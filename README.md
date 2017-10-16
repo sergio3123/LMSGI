@@ -7,6 +7,8 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+>He aprendido markdown a traves de los tutoriales proporcionados en el ejercicio. Sabiendo entonces como hacer listas, parrafos, letra cursiva o negrita, como poner enlaces, adjuntar imagenes o crear un bloque de texto.
 # Lenguaje de marcas <h1> Explicación
    * *Primer tema*
    * **Segundo tema**
